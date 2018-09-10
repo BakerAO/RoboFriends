@@ -1,0 +1,11 @@
+{
+    "extends": ["react-app", "standard"],
+    "plugins": ["react"],
+    "rules": {
+        "indent": 0,
+        "no-undef": 0,
+        "no-unused-vars": 0,
+        "semi": 0,
+        "space-before-function-paren": 0
+    }
+}
